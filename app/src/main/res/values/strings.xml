@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrossyRoad</string>
+    <string-array name="languages">
+        <item>None</item>
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Difficult</item>
+    </string-array>
+</resources>
